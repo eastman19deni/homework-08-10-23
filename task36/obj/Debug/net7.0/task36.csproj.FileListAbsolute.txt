@@ -1,0 +1,14 @@
+E:\greekbrain codes\homework-08.10.2023\task36\bin\Debug\net7.0\task36.exe
+E:\greekbrain codes\homework-08.10.2023\task36\bin\Debug\net7.0\task36.deps.json
+E:\greekbrain codes\homework-08.10.2023\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+E:\greekbrain codes\homework-08.10.2023\task36\bin\Debug\net7.0\task36.dll
+E:\greekbrain codes\homework-08.10.2023\task36\bin\Debug\net7.0\task36.pdb
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.dll
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\refint\task36.dll
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.pdb
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+E:\greekbrain codes\homework-08.10.2023\task36\obj\Debug\net7.0\ref\task36.dll
