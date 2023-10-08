@@ -12,7 +12,7 @@ WriteLine($"[{string.Join(", ", Array)}]");
 FindEven(Array);
 int[] GetArray(int size, int minValue, int maxValue)
 {
-    Random rnd = new Random();
+    Random rnd = new();
     int[] result = new int[size];
     for (int i = 0; i < result.Length; i++)
     {
